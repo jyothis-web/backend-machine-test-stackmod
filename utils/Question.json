@@ -1,0 +1,63 @@
+[
+      {
+          "order": 1,
+          "question": "What is the capital of France?",
+          "options": ["Paris", "London", "Rome", "Berlin"],
+          "correct_answer": "Paris"
+      },
+      {
+          "order": 2,
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Earth", "Mars", "Jupiter", "Venus"],
+          "correct_answer": "Mars"
+      },
+      {
+          "order": 3,
+          "question": "What is the chemical symbol for water?",
+          "options": ["H2O", "O2", "CO2", "H2"],
+          "correct_answer": "H2O"
+      },
+      {
+          "order": 4,
+          "question": "How many continents are there on Earth?",
+          "options": ["5", "6", "7", "8"],
+          "correct_answer": "7"
+      },
+      {
+          "order": 5,
+          "question": "Which country is famous for the Great Wall?",
+          "options": ["India", "China", "Japan", "Russia"],
+          "correct_answer": "China"
+      },
+      {
+          "order": 6,
+          "question": "What is the largest ocean on Earth?",
+          "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+          "correct_answer": "Pacific Ocean"
+      },
+      {
+          "order": 7,
+          "question": "What is the square root of 64?",
+          "options": ["6", "7", "8", "9"],
+          "correct_answer": "8"
+      },
+      {
+          "order": 8,
+          "question": "Who painted the Mona Lisa?",
+          "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+          "correct_answer": "Leonardo da Vinci"
+      },
+      {
+          "order": 9,
+          "question": "What is the smallest prime number?",
+          "options": ["0", "1", "2", "3"],
+          "correct_answer": "2"
+      },
+      {
+          "order": 10,
+          "question": "What is the chemical symbol for gold?",
+          "options": ["Au", "Ag", "Pb", "Fe"],
+          "correct_answer": "Au"
+      }
+  ]
+  
